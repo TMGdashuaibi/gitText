@@ -7,5 +7,6 @@ public class git_text {
         System.out.println("hello git 3 onebranch第一次添加");
         System.out.println("hello git 3 master测试冲突添加了这一行");
 
+        System.out.println("hello git 3 onebranch测试冲突添加这一行");
     }
 }

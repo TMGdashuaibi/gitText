@@ -9,5 +9,6 @@ public class git_text {
 
         System.out.println("hello git 3 onebranch测试冲突添加这一行");
         System.out.println("hello git ssh推送到GitHub所加");
+        System.out.println("hello git 为了测试pull，在GitHub网站加入了");
     }
 }
